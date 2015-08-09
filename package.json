@@ -1,7 +1,7 @@
 {
     "author": "stofstik",
     "name": "degtodir",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Convert degrees to wind direction",
     "main": "degtodir",
     "repository": {},
